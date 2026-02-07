@@ -229,6 +229,7 @@ html {
   display: flex;
   align-items: center;
   gap: 10px;
+  
 }
 
 .dot {
@@ -258,6 +259,7 @@ html {
   display: block;
   font-size: var(--fs-xs);
   color: var(--text-gray);
+  text-transform: uppercase;
 }
 
 .geo-branding {
